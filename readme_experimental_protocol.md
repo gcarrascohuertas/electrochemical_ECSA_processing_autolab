@@ -35,11 +35,12 @@ https://en.wikipedia.org/wiki/Randles%E2%80%93Sevcik_equation
 
 Once you understand this analysis. Following parameters were applied as Randles–Ševčík equation parameters:
 
-- Faraday constant: 96485.33289 mol−1
-- Diffusion coeficient for K<sub>4</sub>[Fe(CN)<sub>6</sub>] 0.0000073 cm2/s
-- Concentration of K<sub>4</sub>[Fe(CN)<sub>6</sub>] 0.000004 mol/cm3
-- Gas constant 8.3144598 J⋅mol−1⋅K−1
+- Faraday constant: 96485.33289 mol<sup>-1</sup>
+- Diffusion coeficient for K<sub>4</sub>[Fe(CN)<sub>6</sub>] 0.0000073 cm<sup>2</sup>/s
+- Concentration of K<sub>4</sub>[Fe(CN)<sub>6</sub>] 0.000004 mol/cm<sup>3</sup>
+- Gas constant 8.3144598 J mol<sup>-1</sup> K<sup>-1</sup>
 - Temperature 298 K
+
 
 
 # Experimental NOVA software routine 
