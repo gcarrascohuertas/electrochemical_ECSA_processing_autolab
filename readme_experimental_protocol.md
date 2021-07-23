@@ -33,4 +33,4 @@ Electrochemical techniques performed is cyclic voltammograms with a staircase pr
 
 Once you finish setting-up all the electrochemical cell components. Create experimental sequence with the parameteres displayed in the  screenshots attached in this project.  
 
-WARNING: Due to PStrace (PalmSens) software is licensed I can not upload sequence (.psmethod file). If you want PStrace (PalmSens) software sequence for ECSA measurements (.psmethod files) do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
+WARNING: Due to NOVA (Metrohm) software is licensed I can not upload sequence (.nox file). If you want NOVA (Metrohm) software sequence for ECSA measurements (.nox files) do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
