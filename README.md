@@ -7,8 +7,8 @@ Electrochemical surface area is one of the most important  parameters in electro
 This project aims to provide quick-tools developed in Python for ECSA data treatment. 
 Main tools consist in obtain following parameters: 
 
-- Area (cm2) for anodic analysis.
-- Area (cm2) for cathodic analysis.
+- Area (cm<sup>2</sup>) for anodic analysis.
+- Area (cm<sup>2</sup>) for cathodic analysis.
 - Stacked plots associated to ECSA analysis.
 - Randles–Ševčík plots associated to ECSA analysis for cathodic and anodic peaks.
 
