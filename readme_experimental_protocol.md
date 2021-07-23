@@ -38,4 +38,4 @@ WARNING: Due to NOVA (Metrohm) software is licensed I can not upload sequence (.
 # Bibliography
 
 [A Practical Beginner’s Guide to Cyclic Voltammetry. Noémie Elgrishi, Kelley J. Rountree, Brian D. McCarthy, Eric S. Rountree, Thomas T. Eisenhart, and Jillian L. Dempsey
-Journal of Chemical Education 2018 95 (2), 197-206. DOI: 10.1021/acs.jchemed.7b00361](https://pubs.acs.org/action/showCitFormats?doi=10.1021%2Facs.jchemed.7b00361&href=/doi/10.1021%2Facs.jchemed.7b00361)
+Journal of Chemical Education 2018 95 (2), 197-206. DOI: 10.1021/acs.jchemed.7b00361](https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00361)
