@@ -1,4 +1,4 @@
-# Electrochemical ECSA fit tools in Python
+# Electrochemical ECSA fit tools in Python - AUTOLAB version
 
 # Overview
 
