@@ -13,7 +13,7 @@ First you need following materials in order to perform experiments:
     - Your working electrode (WE). Here I used a a polished  [Glassy carbon electrode](https://www.basinc.com/products/MF-2012)   (GC, 3 mm diameter, BASI).
 
 - Electrolyte
-    - K<sub>4</sub>[Fe(CN)<sub>6</sub>]  0.004 M (0.000004 mol/cm<sup>3</sup>) dissolved in 0.1 M KCl (D = 7.6E−6 cm<sup>2</sup>/s)
+    - [K<sub>4</sub>[Fe(CN)<sub>6</sub>]](https://www.sigmaaldrich.com/ES/es/search/k4fe%5Bcn%5D6?focus=products&page=1&perPage=30&sort=relevance&term=K4Fe%5BCN%5D6&type=product_name)  0.004 M (0.000004 mol/cm<sup>3</sup>) dissolved in 0.1 M KCl (D = 7.6E−6 cm<sup>2</sup>/s)
    
 # Electrochemical technique
 
