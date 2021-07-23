@@ -1,7 +1,5 @@
 # Electrochemical ECSA fit tools in Python
 
-# Electrochemical ORR reaction fit tools in Python
-
 # Overview
 
 Electrochemical surface area is one of the most important  parameters in electrochemistry. Unfortunately, experimental research of this material property is complicated due to  processing data time involved. 
