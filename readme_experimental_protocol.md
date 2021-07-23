@@ -34,3 +34,8 @@ Electrochemical techniques performed is cyclic voltammograms with a staircase pr
 Once you finish setting-up all the electrochemical cell components. Create experimental sequence with the parameteres displayed in the  screenshots attached in this project.  
 
 WARNING: Due to NOVA (Metrohm) software is licensed I can not upload sequence (.nox file). If you want NOVA (Metrohm) software sequence for ECSA measurements (.nox files) do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
+
+# Bibliography
+
+[A Practical Beginner’s Guide to Cyclic Voltammetry. Noémie Elgrishi, Kelley J. Rountree, Brian D. McCarthy, Eric S. Rountree, Thomas T. Eisenhart, and Jillian L. Dempsey
+Journal of Chemical Education 2018 95 (2), 197-206. DOI: 10.1021/acs.jchemed.7b00361](https://pubs.acs.org/action/showCitFormats?doi=10.1021%2Facs.jchemed.7b00361&href=/doi/10.1021%2Facs.jchemed.7b00361)
